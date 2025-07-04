@@ -1,39 +1,50 @@
-# Sales Executive Analysis using MS Excel
+# Interactive Dashboard Creation Using MS Excel
 
-An interactive dashboard created in Microsoft Excel to analyze the performance of sales executives across multiple regions. This project uses pivot tables, slicers, and visual charts to identify top performers, sales trends, and executives’ target achievement rates.
+## Project Objective
 
-## 📌 Project Objective
-To monitor and improve sales executive performance by analyzing total sales, target hit percentage, and gaps from targets. This allows the management team to make data-driven decisions and improve sales strategy.
+The objective of this project is to analyze the **performance of sales executives** across various regions. This interactive Excel dashboard enables management to evaluate individual performance, track sales trends, and identify areas for improvement — helping make data-driven decisions for boosting sales outcomes.
 
-## 📊 Dataset Used
-- 📂 [Download Dataset (.xlsm)](https://github.com/devanggohill/Sales_Executive_Analysis_Excel/blob/main/Sales%20Executive%20Analysis.xlsm)
+## Dataset Used
 
-## 📈 Key KPIs
-- Total Sales by each executive
-- Target Hit % by executive
-- Away from Target % trend
-- Regional performance using slicers
-- Top performers across multiple dashboards
-- Visual analysis using bar, pie, and line charts
+The dataset for this analysis is available [here](https://github.com/devanggohill/Sales_Executive_Analysis_Excel/blob/main/Sales%20Executive%20Analysis.xlsm).
 
-## 📎 Dashboard Preview
-![Sales Executive Dashboard](https://github.com/devanggohill/Sales_Executive_Analysis_Excel/blob/main/Screenshot%202025-07-04%20120013.png)
+## Key Performance Indicators (KPIs)
 
-## 🛠️ Process
-- Cleaned and validated data for consistency
-- Built pivot tables to extract KPIs
-- Used slicers for regional filtering (Surat, Pune, Delhi, etc.)
-- Created multiple dashboards with dynamic charts
+The analysis was focused on answering the following questions:
 
-## 🔍 Key Insights
-- **Jagdish Chandra** is the top performer with 389 sales
-- **Prabha Desikan** achieved the highest target hit % (34.20%)
-- **Omprakash O** is farthest from the target (71.40% away)
-- Sales are evenly distributed (~20% each) among executives
+- **Who are the top-performing sales executives** based on total sales?
+- **Which region** generates the most revenue?
+- **What is the target hit %** for each executive?
+- **Which executives are farthest from reaching their targets**?
+- **Monthly/quarterly trends** of sales across executives.
+- **Which executive has the highest average deal size**?
+- **Distribution of sales performance** via charts and visuals.
+- **Comparison of sales performance** between different dashboards/regions.
 
-## ✅ Conclusion
-To optimize performance, focus on improving target achievement rates for underperformers while replicating strategies of top performers. Use the dashboard regularly for reviews and action planning.
+## Dashboard Interaction
 
----
+The interactive dashboard allows users to filter and analyze executive performance by region. You can view the dashboard screenshot [here](https://github.com/devanggohill/Sales_Executive_Analysis_Excel/blob/main/Screenshot%202025-07-04%20120013.png).
 
-📁 [Dataset](https://github.com/devanggohill/Sales_Executive_Analysis_Excel/blob/main/Sales%20Executive%20Analysis.xlsm) | 📊 [Dashboard Image](https://github.com/devanggohill/Sales_Executive_Analysis_Excel/blob/main/Screenshot%202025-07-04%20120013.png)
+## Process
+
+The following steps were taken to ensure a structured and effective analysis:
+
+1. **Data Verification**: Checked and corrected any anomalies, inconsistencies, or missing values.
+2. **Data Cleaning**: Ensured proper formatting and validated key fields like sales numbers and target data.
+3. **Pivot Tables**: Created pivot tables for various KPIs across different regions.
+4. **Dashboard Creation**: Combined all insights into a unified Excel dashboard using slicers, bar charts, pie charts, and line charts for dynamic interaction.
+
+## Dashboard
+
+![Dashboard Preview](https://github.com/devanggohill/Sales_Executive_Analysis_Excel/blob/main/Screenshot%202025-07-04%20120013.png)
+
+## Project Insights
+
+- **Top Performer**: *Jagdish Chandra* achieved the highest total sales (389 units), followed closely by *Rachita Anupam* and *Miny Mole*.
+- **Target Achievement**: *Prabha Desikan* recorded the highest target hit % (34.20%), while *Omprakash O* was farthest from target (71.40% away).
+- **Regional Filtering**: Dashboards are categorized by regions such as Surat, Pune, Delhi, etc., enabling localized analysis.
+- **Even Distribution**: Sales performance is relatively evenly distributed among the top 5 executives (~20-21% each).
+
+## Final Conclusion
+
+To enhance sales performance, the company should provide focused training and support to underperforming executives, particularly those significantly away from target like *Omprakash O* and *Pankaj Shelkey*. High-performing executives like *Jagdish Chandra* and *Prabha Desikan* should be acknowledged and used as benchmarks for improving sales strategies. The dashboard provides a quick, interactive view for ongoing monitoring and strategic action.
